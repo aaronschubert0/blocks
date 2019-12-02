@@ -1,0 +1,26 @@
+{
+  "name": "blocks",
+  "version": "0.0.1",
+  "description": "A set of UI primitives that can be rendered across Web, iOS, and Android",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "bugs": {
+    "url": "https://github.com/aaronschubert0/blocks/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aaronschubert0/blocks.git"
+  },
+  "keywords": [
+    "blocks",
+    "primitives",
+    "react",
+    "react-native",
+    "universal",
+    "view"
+  ],
+  "author": "Aaron Schubert",
+  "license": "MIT"
+}
